@@ -75,3 +75,9 @@ body {
 .coluna-esquerda a iconify-icon {
     margin-right: 10px;
 }
+
+.inicio   {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 20px;
+}
